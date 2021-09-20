@@ -1,0 +1,27 @@
+#heading1,
+#heading2,
+#heading3 {
+  color: #757c2b;
+}
+
+body {
+  background-color: #752d2d;
+  border: 3px dotted gold;
+  color: indigo;
+}
+.para1 {
+  text-align: center;
+  color: #c85b0d;
+}
+
+.TableofLang {
+  color: #c85b0d;
+}
+#LangHeadings {
+  color: #c85b0d;
+}
+
+.listOLang {
+  text-align: center;
+  color: #c85b0d;
+}
