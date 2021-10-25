@@ -1,0 +1,9 @@
+---
+
+- hosts: 10.72.1.122
+  become: true
+  tasks:
+  
+  - name: install mongoDB_E
+    apt:
+      name: mongoDB-Enterprise

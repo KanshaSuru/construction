@@ -1,0 +1,9 @@
+---
+
+- hosts: 10.72.1.121
+  become: true
+  tasks: 
+
+  - name: install mqtt package
+    apt:
+      name: mqtt
